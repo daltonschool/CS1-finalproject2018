@@ -15,7 +15,7 @@ public class Location {
     public static Location fetch() throws FileNotFoundException {
         Location secretPlace = new Location();
 
-        File f = new File ("CountriesList");
+        File f = new File ("src/CountriesList.txt");
         Scanner scan = new Scanner(f);
         Random rand = new Random ();
         String[][] countries = new String[244][4];

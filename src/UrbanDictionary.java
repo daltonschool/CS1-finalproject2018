@@ -26,7 +26,7 @@ public class UrbanDictionary {
 
        //Name file
         try {
-            scan = new Scanner(new File("Words.txt"));
+            scan = new Scanner(new File("src/Words.txt"));
         } catch (FileNotFoundException e) {
             e.printStackTrace();
         }
