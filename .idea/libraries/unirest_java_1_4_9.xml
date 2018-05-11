@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="unirest-java-1.4.9">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/unirest-java-1.4.9.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lattelib-snapshot101817.jar!/" />
+      <root url="jar://$PROJECT_DIR$/AssignmentTelemetry-snapshot020918.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
